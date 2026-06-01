@@ -36,7 +36,8 @@
 
 ## 🛠️ Projects I'm Working On
 
-- ♻️ AI-based Waste Segregation System
+- ♻️ IntelliBin- AI-based Waste Segregation
+- 👨‍🔬 Portfolio Website
 - 🌐 Full-Stack CoalVision Website
 - 🛡️ Accident Prevention & Detection System
 - 🖼️ Image Enhancement Toolbox using MATLAB
